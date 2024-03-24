@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<title>E-commerce</title>
+<style>
+.myDiv {
+  border: 5px outset black;
+  background-color: lightblue;
+
+}
+table, th, td {
+  border:2px solid black;
+}
+</style>
+<body style="border:2px solid black;background-color: LIGHTBLUE;">
+<marquee><b><i><font face ="times new roman" size="250" color="purple" >SRI LAXMI NARASIMHA WOMENS HOSTEL</b></i></font></marquee> 
+<br>
+
+<h1 style=" border:2px solid black;background-color:Tomato;">ADDRESS</h1>
+<h2 style=background-color:white;>Opposite lane of aparna,near shivalayayam,Gowlidoddy,Gacchibowli<br> <a href="mailto:rnavya964@gmail.com">mail</a><br><b>Phone number:9398727631,7981619291</b></h2>
+<br>
+
+
+<h1 style=" border:2px solid black;background-color:Tomato;">FACILITIES</h1>
+
+   <H2 style="color: BLACK;">&Rarr;1,2,3,4 Sharing</H2>
+     <H2 style="color:BLACK;">&Rarr;Greaser</H2>
+    <H2 style="color:BLACK;">&Rarr;Washing machine's</H2>
+    <H2 style="color:BLACK;" >&Rarr;Fridge</H2>
+    <H2 style="color:BLACK;">&Rarr;Smart tv's(wifi connected)</H2>
+   <H2 style="color:BLACK;">&Rarr;Safe lockers</H2>
+    <H2 style="color: BLACK;" >&Rarr;Wifi</H2>
+     <H2 style="color: BLACK;" >&Rarr;Hot and Cool water for driking</H2>
+     <H2 style="color: BLACK;" >&Rarr; CCtv'</H2>
+     <H2 style="color: BLACK;" >&Rarr;North and South indian food</H2>
+     <H2 style="color: BLACK;" >&Rarr;(selfcooking is allowed)</H2>
+    </i>
+    </div>
+<br>
+<div class="myDiv">
+
+<h1 style=" border:2px solid black;background-color:Tomato;">SHARING PRICES</h1>
+<table>
+<tr>
+  <th>SHARING</th>
+  <th>NEW BULDING</th>
+   <th>OLD BUILDING </th>
+   </tr>
+   <tr>
+   <td>4</td>
+   <td>6500</td>
+   <td>6000</td></tr>
+   </tr>
+   <tr>
+   <td>3</td>
+   <td>7500</td>
+   <td>6000</td></tr>
+   </tr>
+   <tr>
+   <td>2</td>
+   <td>9500</td>
+   <td>8000</td></tr>
+   </tr>
+   <tr>
+   <td>1</td>
+   <td>1800</td>
+   <td>16000</td></tr>
+   </tr>
+   </table>
+
+<div class="myDiv">  
+    <h1 style=" border:2px solid black;background-color:Tomato;"><u> FOOD MENU:</font></u></h1>
+   <h2 style="color:blue;"><U>&diams;Morning break fast:</U></h2><h2>idly,dosa,puri,tomatobath,vada,...</h2>
+   <h2 style="color:blue;"><U>&diams;Afternoon:</h2></U><h2>dal,rice,vegetable fry,rasam,chutney,buttermilk</h2>
+   <h2 style="color:blue;"><U>&diams;Evening:</U></h2><h2>chapathi,sambar,rice,curry</h2>
+ <h2>  weekly twice chicken,egg,for vegitarians,panner,gobi;saturday and wednesday spl food </h2> </div>  
+ <br>      
+ <h3><font color="purple">check the availability</font>></h3>
+<table bgcolor="pink",border color="3" align="center">
+   <caption>Rooms availability</caption>
+   <tr>
+   <th>Sharing</th>
+   <th>Availability</th>
+   <th>No of beds available</th>
+   </tr>
+   <tr>
+   <td>1</td>
+   <td>none</td>
+   <td>o</td>
+   </tr>
+   <tr>
+      <td>2</td>
+      <td>yes</td>
+      <td>2</td>
+      </tr>
+      <tr>
+         <td>3</td>
+         <td>yes</td>
+         <td>1</td>
+         </tr>
+         <tr>
+            <td>4</td>
+            <td>none</td>
+            <td>0</td>
+            </tr>
+</table>
+
+
+<form>
+
+        <h2>
+            <label>&Rarr;Username : <input type="text" /></label>
+        </h2>
+
+        <h2>
+            <label>&Rarr;Phone number : <input type="Password" />       </label></H2>
+        <H2>    <label>&Rarr;E-mail : <input type="Password" />       </label></H2>
+        
+       
+           <H2> <label>&Rarr;Sharing: <input type="text" /></label>
+        </h2>
+        <h2>
+            <label> &Rarr;Address: <input type="text" /></label>
+        </h2>
+        <h2>
+            <label>&Rarr;Expected joining Date : <input type="text" /></label>
+        </h2>
+
+      <h1> <hr>
+            <a href="mailto:rnavya964@gmail.com">submit</a>
+       </h1> </hr>
+
+    </form>
+
+    </html></body>
+
+<h2><font color="orange">If Intersted to join fill the above form:</font></h2>
+  
+
+
+
+
+
+       </body>
+    </html>
